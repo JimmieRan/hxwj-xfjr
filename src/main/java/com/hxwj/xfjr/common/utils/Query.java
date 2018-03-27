@@ -25,9 +25,6 @@ import java.util.Map;
 
 /**
  * 查询参数
- *
- * @author Mark sunlightcs@gmail.com
- * @since 2.0.0 2017-03-14
  */
 public class Query<T> extends LinkedHashMap<String, Object> {
 	private static final long serialVersionUID = 1L;

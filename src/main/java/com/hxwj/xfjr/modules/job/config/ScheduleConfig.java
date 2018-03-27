@@ -25,9 +25,6 @@ import java.util.Properties;
 
 /**
  * 定时任务配置
- *
- * @author Mark sunlightcs@gmail.com
- * @since 2.0.0 2017-04-20
  */
 @Configuration
 public class ScheduleConfig {

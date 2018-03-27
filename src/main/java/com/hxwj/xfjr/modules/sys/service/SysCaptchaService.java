@@ -23,9 +23,6 @@ import java.awt.image.BufferedImage;
 
 /**
  * 验证码
- *
- * @author Mark sunlightcs@gmail.com
- * @since 2.0.0 2018-02-10
  */
 public interface SysCaptchaService extends IService<SysCaptchaEntity> {
 

@@ -24,8 +24,6 @@ import java.util.Date;
 
 /**
  * 系统验证码
- * @author Mark sunlightcs@gmail.com
- * @since 2.0.0 2018-02-10
  */
 @TableName("sys_captcha")
 public class SysCaptchaEntity {
